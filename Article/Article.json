@@ -1,0 +1,47 @@
+{
+    "response": [{
+            "heading": {
+                "text": "7 popular Western desserts Japanese chefs have made their own",
+                "size": 24
+            }
+        },
+        {
+            "heading": {
+                "text": "Maggie Hiufu Wong, CNN • Updated 5th December 2021",
+                "size": 12
+            }
+        },
+        {
+"image": {
+"url": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1100,c_fill,g_auto,h_619,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F211130153310-06-japan-best-cakes.jpg",
+"caption": "Japanese Dessert",
+"source": "CNN"
+}
+        },
+        {
+            "paragraph": {
+                "text": "Japan has long been famous internationally for its diverse and delicious eats, from sushi to ramen, with such staples appearing on menus around the world.\n\nBut in recent years word has also spread about its expertise in another culinary arena -- cakes and pastries. The country's chefs have taken many of the traditionally Western desserts known and loved around the world and elevated them to new heights.\n\nUnlike Japanese sweets -- called wagashi -- Western-style confectioneries, referred to as yogashi, are made mostly of flour and sugar. But Japanese versions are generally less sweet compared to their Western counterparts."
+            }
+        },
+        {
+            "heading": {
+                "text": "Strawberry shortcake",
+                "size": 22
+            }
+        },
+        {
+            "image": {
+                "url": "https://dynaimage.cdn.cnn.com/cnn/q_auto,w_634,c_fill,g_auto,h_357,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F211130151518-05-japan-best-cakes.jpg",
+                "caption": "Japan's strawberry shortcake has become a popular winter cake around Asia.",
+                "source": "Good Good"
+            }
+        },
+        {
+            "quote": {
+                "text": "I put it on our menu every winter as, despite its simplicity, it is a cake that makes you feel so blissful. It's basic but there is so much room to explore and improve.",
+                "author": "Good Good"
+
+            }
+        }
+    ]
+}
